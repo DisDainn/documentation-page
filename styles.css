@@ -19,7 +19,7 @@ body{
   #navbar ul{
     list-style: none;
     padding: 0px; 
-    height: 80%;
+    height: 100%;
     overflow-x: hidden;
     overflow-y: auto;
   }
